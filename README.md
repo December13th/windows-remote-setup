@@ -10,4 +10,4 @@ Descarga e instala Parsec en modo silencioso.
 
 ---
 
-Autor: Dianel
+Autor: Dec13th
